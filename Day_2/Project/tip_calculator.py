@@ -1,5 +1,7 @@
 # A program that splits tips and bills between friends..
 
+print("Welcome to the tip calculator")
+
 bill = input("what is the bill($)? ")
 tip_percentage = input("what percetage tip will you like to give? ")
 
